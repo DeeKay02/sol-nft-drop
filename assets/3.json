@@ -1,0 +1,19 @@
+{
+    "name": "THE_KID",
+    "symbol": "CARL",
+    "image": "3.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BCbcnFSrQLe2U3CDQN2NxifWZCPqvWNX1gj8V9Ntcw85",
+          "share": 100
+        }
+      ]
+    }
+  }

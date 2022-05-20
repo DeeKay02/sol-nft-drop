@@ -1,0 +1,19 @@
+{
+    "name": "THE_SCAVENGER",
+    "symbol": "GLENN",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BCbcnFSrQLe2U3CDQN2NxifWZCPqvWNX1gj8V9Ntcw85",
+          "share": 100
+        }
+      ]
+    }
+  }
